@@ -1,0 +1,17 @@
+
+/*Grupo P*/
+
+Nombre: Emilio Bolaños
+Mail: emiliobol@gmail.com
+
+Nombre: Ignacio de Villafañe
+Mail: idevillafane@gmail.com
+
+Nombre: Milagros Belen Rossi
+Mail: rcmily@gmail.com
+
+Nombre: Juan Amador Lizarrondo Buffa
+Mail: juanamadorlizarrondo@gmail.com
+
+Nombre: Nicolas Finocchi
+Mail: nico.finocchi@gmail.com

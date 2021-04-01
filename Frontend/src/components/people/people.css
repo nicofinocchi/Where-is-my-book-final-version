@@ -1,0 +1,27 @@
+.people-form{
+    border:1px solid red;
+    display:flex;
+    flex-direction: column;
+    /*flex-wrap: wrap;*/
+}
+
+.people-form input {
+    height: 40px;
+    /*min-width: 500px;*/
+}
+
+button {
+    padding: 20px 45px 20px 45px;
+    width: 100px;
+    color: black;
+    background-color:rgb(7, 209, 165);
+    cursor:pointer;
+    border: 1px solid rgb(7, 209, 165);
+}
+
+button:hover {
+    color: black;
+    background-color:rgb(6, 117, 93);
+    cursor:pointer;
+    border: 1px solid rgb(6, 117, 93);
+}
